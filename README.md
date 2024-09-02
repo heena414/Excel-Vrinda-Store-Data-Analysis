@@ -38,6 +38,6 @@ To maximize growth, target female customers aged 30-40 years in Maharashtra, Kar
 
 <br /> 
 <div align="center" style="margin-bottom: 20px;">
-    <img src="/assets/dashboard.jpeg" height="500px" width="auto" style="display:block; margin-bottom: 20px; padding-right: 20px;" />
+    <img src="/assets/dashboard.jpeg" height="400px" width="auto" style="display:block; margin-bottom: 20px; padding-right: 20px;" />
 </div>
 <br /> 
