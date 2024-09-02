@@ -1,0 +1,41 @@
+Vrinda Store 2022 Annual Report: Data Analysis and Insights
+
+
+Objective 
+
+Vrinda Store aims to analyze its performance in 2022 to better understand customer behavior and drive increased sales in 2023.
+
+
+Problem Statements Addressed:
+
+- Sales and Orders Comparison (2022): Analyzed monthly sales and order trends.
+- Peak Sales Month: Identified the month with the highest sales and orders.
+- Customer Demographics: Compared product purchases between men and women.
+- Order Status Analysis: Reviewed the various order statuses throughout 2022.
+- Top Sales-Contributing States: Ranked the top 5 states by sales contribution.
+- Age-Gender Relationship: Examined the relationship between age, gender, and the number of orders.
+- Sales Channels: Determined which sales channels contributed the most to revenue.
+
+
+Key Insights:
+
+- Customer Demographics: Women are more likely to purchase products than men, making up 65% of total sales.
+- Top-Contributing States: Maharashtra, Karnataka, and Uttar Pradesh are the top three states, contributing to 35% of total sales.
+- Age Group Contribution: The adult age group (30-49 years) is the largest contributor, responsible for nearly 50% of orders.
+- Sales Channels: Amazon, Flipkart, and Myntra are the top-performing channels, accounting for 80% of total sales.
+- Order Fulfillment: Over 92% of the total orders were successfully delivered.
+- Monthly Performance: March recorded the highest sales, while November had the lowest.
+
+
+Skills Utilized:
+
+- Data Cleaning: Ensured accuracy and consistency in the dataset.
+- Data Processing: Organized and transformed raw data for analysis.
+- Pivot Tables: Used for summarizing large datasets and drawing insights.
+- Slicers: Enabled interactive filtering to focus on specific data segments.
+- Data Visualization: Created compelling visual dashboards to communicate findings effectively.
+
+
+Conclusion: 
+
+To boost sales in 2023, Vrinda Store should focus on targeting women aged 30-40 years in Maharashtra, Karnataka, and Uttar Pradesh. Tailoring marketing strategies with ads, offers, and coupons on Amazon, Flipkart, and Myntra will likely yield the best results.
